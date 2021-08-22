@@ -7,6 +7,6 @@ The dataset was used from EURO parl corpus: https://www.statmt.org/europarl/ hav
 
 The model was built on the following architecture in Tensorflow 2.x
 
-![alt text](https://github.com/jkenavdekar/Machine-Translation-using-Transformer/blob/main/transformer.JPG)
+<img src="https://github.com/jkenavdekar/Machine-Translation-using-Transformer/blob/main/transformer.JPG" width="100" height="100">
 
-Video presentation link: 
+Video presentation link: https://www.youtube.com/watch?v=v8KKzj4SS-c
